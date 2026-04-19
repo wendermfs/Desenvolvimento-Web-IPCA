@@ -25,3 +25,25 @@ O objetivo deste projeto foi aplicar os conceitos fundamentais de estruturação
 
 ---
 *Este repositório serve como registo da minha evolução inicial no desenvolvimento Web pelo IPCA.*
+
+## 👗 Fashion Blog Project
+
+Este exercício consistiu na criação de um blog de moda minimalista, onde o foco principal foi a organização semântica do texto e a implementação de sistemas de navegação interna.
+
+### 🎓 Contexto Académico
+* **Instituição:** IPCA 🏫
+* **Exercício:** Formatação de Texto e Links Internos 📝
+* **Foco:** Diferenciação entre elementos inline e block, uso de tags semânticas e criação de âncoras de navegação.
+
+### 🚀 Tecnologias Utilizadas
+* **HTML5 Semântico:** Estruturação de conteúdo focada em acessibilidade e hierarquia. 🌐
+* **Âncoras de Navegação:** Implementação de links internos (`href="#id"`) para saltos de página. ⚓
+
+### 🛠️ Funcionalidades
+* **Navegação por Imagem:** O clique na imagem de perfil (`profile.jpg`) desloca a página automaticamente para a área de contactos.
+* **Dados Estruturados:** Apresentação de contactos (email, telefone, morada) numa linha contínua com destaques em negrito.
+
+### 📁 Estrutura do Repositório
+* `Fashion.html`: Página principal e única do blog de moda.
+* `media/`: Pasta que organiza todos os ativos visuais (imagens de moda e perfil). 📸
+* `Everyday with Isa.pdf`: Material complementar utilizado no exercício. 📄
